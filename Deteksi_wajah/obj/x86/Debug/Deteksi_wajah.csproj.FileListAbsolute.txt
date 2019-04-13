@@ -1,0 +1,38 @@
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\bin\Debug\Deteksi_wajah.exe
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\bin\Debug\Deteksi_wajah.pdb
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.CV.dll
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.CV.UI.dll
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.Util.dll
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\bin\Debug\ZedGraph.dll
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.CV.xml
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.CV.UI.xml
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\bin\Debug\Emgu.Util.xml
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.Form1.resources
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.Properties.Resources.resources
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.csproj.GenerateResource.Cache
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.exe
+C:\Users\NICE\documents\visual studio 2010\Projects\Deteksi_wajah\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.pdb
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.exe
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.pdb
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Deteksi_wajah.exe
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Deteksi_wajah.pdb
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\bin\Debug\ZedGraph.dll
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Emgu.CV.xml
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Emgu.CV.UI.xml
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Emgu.Util.xml
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.csprojResolveAssemblyReference.cache
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.Form1.resources
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.Properties.Resources.resources
+F:\IDM\Compressed\17421072_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.csproj.GenerateResource.Cache
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.exe
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.pdb
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Deteksi_wajah.exe
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Deteksi_wajah.pdb
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\bin\Debug\ZedGraph.dll
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Emgu.CV.xml
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Emgu.CV.UI.xml
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\bin\Debug\Emgu.Util.xml
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.csprojResolveAssemblyReference.cache
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.Form1.resources
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.Properties.Resources.resources
+F:\IDM\Compressed\17421069_DeteksiWajah-master\Deteksi_wajah\obj\x86\Debug\Deteksi_wajah.csproj.GenerateResource.Cache
